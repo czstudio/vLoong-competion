@@ -16,7 +16,7 @@
 -|3. 模型结果融合.ipynb        对多种模型得到的结果加权融合
 -|extracted_train_features.pkl  提取的train数据时序特征
 -|extracted_test_features.pkl    提取的test数据时序特征
-.... (所有模型文件数据均在阿里云盘中）
+.... (所有模型文件数据均在云盘中：https://share.weiyun.com/vj56LU5c ）
 -README.MD
 ```
 ## 使用方式
