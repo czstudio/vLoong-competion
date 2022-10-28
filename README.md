@@ -17,7 +17,7 @@
 -|总程序.ipynb                      去除废弃方案后的精简总程序，看这个就行
 -|extracted_train_features.pkl  提取的train数据时序特征
 -|extracted_test_features.pkl    提取的test数据时序特征
-.... (所有模型文件数据均在云盘中：https://share.weiyun.com/vj56LU5c ）
+.... (所有模型文件数据均在云盘中：https://share.weiyun.com/vj56LU5c ，精简后的： https://share.weiyun.com/ZHDBXlrk）
 -README.MD
 ```
 ## 使用方式
