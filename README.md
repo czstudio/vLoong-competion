@@ -24,8 +24,8 @@
 > 请提前准备package: lightgbm,xgboost,sklearn,numpy,tsfresh ( 时序特征提取工具），imblearn( 不均衡数据处理），mljar-supervised (automl算法，https://github.com/mljar/mljar-supervised)
 
 ### 实验tips
--|GRU, GRU-FCN等深度学习模型尝试效果一般。
--|lightgbm模型效果最好，单一使用不调参就可以达到0.86。
--|对不均衡数据使用imblearn的random oversampling 效果会有好的提升。
--|对多种模型得到的结果加权融合效果提升很有限。
--|automl工具提升效果有限，直接lightgbm 就行。
+- [ ] GRU, GRU-FCN等深度学习模型尝试效果一般。
+- [ ] lightgbm模型效果最好，单一使用不调参就可以达到0.86。
+- [ ] 对不均衡数据使用imblearn的random oversampling 效果会有好的提升。
+- [ ] 对多种模型得到的结果加权融合效果提升很有限。
+- [ ] automl工具提升效果有限，直接lightgbm 就行。
