@@ -17,9 +17,9 @@
 -|总程序.ipynb                      去除废弃方案后的精简总程序，看这个就行
 -|extracted_train_features.pkl  提取的train数据时序特征
 -|extracted_test_features.pkl    提取的test数据时序特征
-.... (所有模型文件数据均在云盘中：https://share.weiyun.com/vj56LU5c ，精简后的： https://share.weiyun.com/ZHDBXlrk）
 -README.MD
 ```
+ (所有模型文件数据均在云盘中：https://share.weiyun.com/vj56LU5c ，精简后的： https://share.weiyun.com/ZHDBXlrk）
 ## 使用方式
 > 请提前准备package: lightgbm,xgboost,sklearn,numpy,tsfresh ( 时序特征提取工具），imblearn( 不均衡数据处理），mljar-supervised (automl算法，https://github.com/mljar/mljar-supervised)
 
